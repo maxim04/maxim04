@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxim04
 - 👀 I’m interested in iOS Development and building cool things
-- 🌱 I’m currently learning iOS and the AWS ecosystem
+- 🌱 I’m currently learning iOS and the Spring ecosystem
 - 💞️ I’m looking to collaborate on building iOS apps
 - 📫 How to reach me m.antonov100@gmail.com
 
